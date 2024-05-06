@@ -1,22 +1,19 @@
-# Application name
+# Static Azure Webpage - BAIS:3250 Homework #7
 ## Details
-![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Azure badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&l&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)
+![HTML5 badge](https://img.shields.io/static/v1?message=html&logo=html5&labelColor=5c5c5c&color=E34F26&logoColor=white&label=%20&style=for-the-badge)
 
-Webpage URL: https://gabriellekilpatrick.com/
-
-Thank you for checking out my README page for my portfolio website. This portfolio was created using an HTML template from https://html5up.net/, edited for page changes and alterations. On this webpage, you can find information about me, such as my resume, work, and contact information. This page runs on a free static website through Microsoft Azure on my own custom domain. This page is linked to a Google Analytics account and is used to track user acquisitions, from location to how long a user rested on the page. You will find a cookies policy, privacy policy, and terms and conditions pages linked at the footer of the page.
+Thank you for checking out my README page for my first-ever static Azure website. This website is no longer active as the domain name previously used for it has been reallocated to my portfolio website. When this page was active, upon clicking the link it would bring you to a static website in which the Azure logo was visible, with my full name "Gabrielle Kilpatrick" next to said logo. 
 
 ---
 
 Web Home Page Screenshot
 ```
-![Image of main homepage for portfolio website](https://github.com/Gabrielle-Kilpatrick/gkilpatrick-portfolio/blob/main/images/flower_image.png)) 
+![Image of static website](https://github.com/Gabrielle-Kilpatrick/bais3250-hw7/blob/main/static_home_page.png) 
 ```
 
-![Salary prediction home page](https://github.com/mikecolbert/README-template/blob/main/repo_assets/screenshot_index.png)
+![Image of static website](https://github.com/Gabrielle-Kilpatrick/bais3250-hw7/blob/main/static_home_page.png)
 
 ---
 
