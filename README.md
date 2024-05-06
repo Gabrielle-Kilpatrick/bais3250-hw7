@@ -63,5 +63,7 @@ Lastly, I immersed myself in HTML creation, unraveling the fundamental building 
 
 ## Change log
 date: developer -- change(s) made
+
 04/28/2024: Gabrielle Kilpatrick -- domain name removed
+
 04/28/2024: Gabrielle Kilpatrick -- Azure page taken down
