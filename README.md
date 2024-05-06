@@ -14,7 +14,7 @@ Thank you for checking out my README page for my portfolio website. This portfol
 Logo or screenshot
 Commit image to repository and link to it.  
 ```
-![alt text for image](https://github.com/Gabrielle-Kilpatrick/gkilpatrick-portfolio/blob/main/images/flower_image.png)) 
+![Image of main homepage for portfolio website](https://github.com/Gabrielle-Kilpatrick/gkilpatrick-portfolio/blob/main/images/flower_image.png)) 
 ```
 
 ![Salary prediction home page](https://github.com/mikecolbert/README-template/blob/main/repo_assets/screenshot_index.png)
