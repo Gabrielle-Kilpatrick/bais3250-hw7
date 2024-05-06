@@ -11,8 +11,7 @@ Thank you for checking out my README page for my portfolio website. This portfol
 
 ---
 
-Logo or screenshot
-Commit image to repository and link to it.  
+Web Home Page Screenshot
 ```
 ![Image of main homepage for portfolio website](https://github.com/Gabrielle-Kilpatrick/gkilpatrick-portfolio/blob/main/images/flower_image.png)) 
 ```
