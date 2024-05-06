@@ -28,7 +28,7 @@ Lastly, I immersed myself in HTML creation, unraveling the fundamental building 
 
 ---
 
-## Instruction to run the application
+## Instruction to run the page
 
 1. Clone this repository to a local computer
 
