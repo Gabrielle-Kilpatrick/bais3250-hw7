@@ -18,7 +18,13 @@ Web Home Page Screenshot
 ---
 
 ## What did I learn?
-Short paragraph or two about the new skill(s) you learned in this project.  
+Through this homework project, I've gained new skills that will shape my future usage of GitHub and Azure. 
+
+Firstly, I was introduced to the world of Azure static pages, learning how to create and begin hosting websites efficiently. This experience not only honed my technical abilities but also taught me about the integration of custom domains with web hosting services. 
+
+Secondly, I navigated through the basics of GitHub repository creation, understanding its significance in collaborative development and version control. I learned how to create public repositories and how to link these to Azure web services.
+
+Lastly, I immersed myself in HTML creation, unraveling the fundamental building blocks of web development. From creating accessible webpages to linking various elements, I now possess a solid foundation in web scripting.
 
 ---
 
@@ -48,30 +54,14 @@ Short paragraph or two about the new skill(s) you learned in this project.
 ---
 
 ## TO-DO
-- [x] ~~Catch all selected activities in /add and put them into the list~~
-- [x] ~~About page~~
-- [ ] Styling using [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/) framework  
-- [ ] API
-- [ ] [feature] Add an awesome feature ([#4][i4])
-- [ ] [bug] Finally fixed this stupid bug ([#5][i5])
+- [x] ~~Link page to custom domain~~
+- [x] ~~Set up running Azure static webpage~~
+- [x] ~~Submit assignment~~
 
-[i4]: https://github.com/mikecolbert/dpb-web-form-template/issues/4
-[i5]: https://github.com/mikecolbert/dpb-web-form-template/issues/5
-
-
-```
-- [x] ~~About page~~
-- [ ] API
-
-- [ ] [feature] Add an awesome feature ([#4][i4])
-- [ ] [bug] Finally fixed this stupid bug ([#5][i5])
-
-[i4]: https://github.com/mikecolbert/dpb-web-form-template/issues/4
-[i5]: https://github.com/mikecolbert/dpb-web-form-template/issues/5
-
-```
 
 ---
 
 ## Change log
 date: developer -- change(s) made
+04/28/2024: Gabrielle Kilpatrick -- domain name removed
+04/28/2024: Gabrielle Kilpatrick -- Azure page taken down
